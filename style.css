@@ -12,7 +12,7 @@ body {
 /* Header */
 
 .header {
-  background-image: url('./Images/Boreal.jpg');
+  background-image: url('./Images/boreal.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -31,7 +31,7 @@ body {
   width: 18rem;
   height: 11rem;
   box-shadow: 5px 5px 5px black;
-  background-image: url("./Images/Steven.png");
+  background-image: url("./Images/Steven.JPG");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
