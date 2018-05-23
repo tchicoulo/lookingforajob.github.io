@@ -12,7 +12,7 @@ body {
 /* Header */
 
 .header {
-  background-image: url('./Images/boreal.jpg');
+  background-image: url('./Images/Boreal.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -25,19 +25,20 @@ body {
   justify-content: space-around;
 }
 .divpic {
-  padding-right: 5rem;
-  padding-left: 8rem;
-  padding-bottom: 2rem;
-  width: 20%;
-  height: 10rem;
+  margin: 0 5rem 0 6rem;
+  border: 3px solid black;
+  border-radius: 50%;
+  width: 18rem;
+  height: 11rem;
+  box-shadow: 5px 5px 5px black;
+  background-image: url("./Images/Steven.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .face {
-  border: 3px solid black;
-  border-radius: 50%;
-  width: 10rem;
-  height: 10rem;
-  box-shadow: 5px 5px 5px black;
+
 }
 
 .infos {
