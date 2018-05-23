@@ -204,12 +204,6 @@ body {
   transition-duration: 0.2s;
 }
 
-.face:hover {
-  width: 12rem;
-  height: 12rem;
-  transition-duration: 0.3s;
-}
-
 .btn:active, .btn2:active {
   color: white;
   width: 11rem;
